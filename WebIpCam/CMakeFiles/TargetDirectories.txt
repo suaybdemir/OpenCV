@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/WebIpCam/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/WebIpCam/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/WebIpCam/CMakeFiles/rebuild_cache.dir
