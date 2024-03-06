@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/example1/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/example1/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/example1/CMakeFiles/rebuild_cache.dir
