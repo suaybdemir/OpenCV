@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/ImgRead/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/ImgRead/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/ImgRead/CMakeFiles/rebuild_cache.dir
