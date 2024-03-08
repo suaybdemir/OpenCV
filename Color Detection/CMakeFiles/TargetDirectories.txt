@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/Color Detection/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/Color Detection/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/Color Detection/CMakeFiles/rebuild_cache.dir
