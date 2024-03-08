@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/Basic Functions/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/Basic Functions/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/Basic Functions/CMakeFiles/rebuild_cache.dir
