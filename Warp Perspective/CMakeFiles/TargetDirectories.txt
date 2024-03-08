@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/Warp/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/Warp/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/Warp/CMakeFiles/rebuild_cache.dir
