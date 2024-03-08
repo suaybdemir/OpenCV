@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/Resize and Crop/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/Resize and Crop/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/Resize and Crop/CMakeFiles/rebuild_cache.dir
