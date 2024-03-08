@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/DrawAndText/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/DrawAndText/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/DrawAndText/CMakeFiles/rebuild_cache.dir
