@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/OpenCV/Shapes_Contour_Detection/CMakeFiles/output.dir
+/home/ubuntu/Documents/OpenCV/Shapes_Contour_Detection/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/OpenCV/Shapes_Contour_Detection/CMakeFiles/rebuild_cache.dir
